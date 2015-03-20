@@ -1,5 +1,5 @@
 package com.dys;
-
+/*this is for gitHub rest*/
 public class Franc extends Money{
 
 	public Franc(int price,String Currency){
